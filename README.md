@@ -13,6 +13,6 @@ https://github.com/novosga/triage-app
 ### Por que deste fork?
 Por alguma razão o release original a versão 2.0.2 WEB está com problemas, não mostra os Departamentos e os Serviços.
 
-Essa versão é simplesmente uma versão recompilada.
+Essa versão é simplesmente uma versão recompilada que resolve esse problema.
 
 Enjoy.
