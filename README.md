@@ -5,7 +5,9 @@ https://github.com/novosga/triage-app
 ## Como usar
 
 1 - Clone o repositório;
-2 - Ajuste as permissões da pasta (chmod);
+
+2 - Ajuste as permissões da pasta (chmod) se necessário;
+
 3 - Acesse: http(s)://seuservidor/triage-app.
 
 ### Por que deste fork?
