@@ -57,5 +57,9 @@
   "home.services.subtitle": "Escolha o serviço desejado",
   "home.service.subtitle": "Atividades executadas pelo serviço escolhido",
   "home.print.title": "Imprimindo",
-  "home.print.subtitle": "Por favor aguarde a impressão da sua senha de atendimento"
+  "home.print.subtitle": "Por favor aguarde a impressão da sua senha de atendimento",
+  "menu.bkp_json": "Backup das Configurações",
+  "settings.label.upload": "Baixe suas configurações ou faça o upload de seu backup JSON",
+  "settings.btn.upload": "Upload",
+  "settings.btn.download": "Download"
 }
