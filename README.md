@@ -6,13 +6,13 @@ https://github.com/novosga/triage-app
 
 1 - Clone o repositório;
 
-2 - Ajuste as permissões da pasta (chmod) se necessário;
+2 - Acesse: http(s)://seuservidor/triage-app.
 
-3 - Acesse: http(s)://seuservidor/triage-app.
+3 - Faça suas configurações.
 
 ### Por que deste fork?
 Por alguma razão o release original a versão 2.0.2 WEB está com problemas, não mostra os Departamentos e os Serviços.
 
-Essa versão é simplesmente uma versão recompilada que resolve esse problema.
+Esta versão inclui o recurso Backup Settings que permite fazer o Backup em um arquivo JSON das configurações.
 
 Enjoy.
