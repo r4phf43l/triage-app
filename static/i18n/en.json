@@ -61,5 +61,6 @@
   "menu.bkp_json": "Backup Settings",
   "settings.label.upload": "Download your settings or upload your JSON Backup",
   "settings.btn.upload": "Upload",
-  "settings.btn.download": "Download"
+  "settings.btn.download": "Download",
+  "settings.btn.default": "Default settings."
 }
